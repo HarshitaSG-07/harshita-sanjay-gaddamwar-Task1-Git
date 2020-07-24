@@ -1,0 +1,2 @@
+Heyy! This is an example for a git file.
+Hope you have a good day!
